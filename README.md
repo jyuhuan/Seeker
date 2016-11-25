@@ -7,4 +7,4 @@ Seeker is a Finder extension for programmers.
 
 ### RoadMap
 
-- Allow user to define their own rules of opening methods and operations through an XML/Json/YAML/etc. configuration file.
+- Allow users to define their own rules of opening methods and operations through an XML/Json/YAML/etc. configuration file.
